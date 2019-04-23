@@ -1,0 +1,13 @@
+A,B,D,S,X
+a,b,d,x
+S
+S->aB
+S->bX
+A->Bad
+A->bSX
+A->a
+B->aSB
+B->bBX
+X->SBD
+X->aBx
+X->ad

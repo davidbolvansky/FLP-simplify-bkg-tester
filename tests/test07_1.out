@@ -1,0 +1,7 @@
+A,S,X
+a,b,d,x
+S
+S->bX
+A->bSX
+A->a
+X->ad

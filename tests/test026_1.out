@@ -1,0 +1,12 @@
+B,C,D,F,G,S
+a,b,c,d,e,f,g
+S
+S->B
+B->Cd
+B->bF
+C->cC
+C->c
+D->dCd
+F->BC
+G->g
+G->gG
