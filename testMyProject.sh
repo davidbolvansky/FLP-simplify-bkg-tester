@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Authors: Pavel Hrebicek (xhrebi04) - first 10 tests
-#	   David Bolvansky (xbolva00| - other tests
+#	   David Bolvansky (xbolva00) - other tests
 # Tests for FLP BKG-SIMPLIFY
 
 RED='\033[0;31m'
